@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergiocordobam" alt="sergiocordobam" /></a> </p>
 
-- 🔭 I’m currently working on [TemporalAdventures](https://github.com/mstermigol/TemporalAdventures.git)
+- 🔭 I’m currently working on [TemporalAdventures](https://github.com/mstermigol/TemporalAdventures.git) and [Botellas de Amor](https://github.com/ZephyrusP2/Botellas-de-Amor.git)
 
 - 🌱 I’m currently learning **PHP and Laravel**
 
