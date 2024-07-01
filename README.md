@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [TemporalAdventures](https://github.com/mstermigol/TemporalAdventures.git) and [Botellas de Amor](https://github.com/ZephyrusP2/Botellas-de-Amor.git)
 
-- 🌱 I’m currently learning **PHP, Laravel and Flask**
+- 🌱 I’m currently learning **Flask and React**
 
 - 📫 How to reach me: **scordobamuriel@gmail.com**
 
